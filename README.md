@@ -1,5 +1,6 @@
-GPT-Translator-Shortcuts————适用于MacOS/IOS/iPadOS的AI翻译工具。
-不想打开三方软件？嫌弃三方软件占用内存过多？想体验更好的翻译体验？那么GPT-Translator-Shortcuts或许是你最好的选择！
+GPT-Translator-Shortcuts——适用于MacOS/IOS/iPadOS的AI翻译工具。
+
+不想打开三方软件？嫌三方软件占用内存过多？想拥有更好的翻译体验？那么不如试试GPT-Translator-Shortcuts！
 ## 1. 易于使用
 你只需使用鼠标选中文本，然后按下Ctrl+T（可以根据自己的偏好，设置对应的快捷键），就会触发快捷指令，完成翻译。
 ![example](./assets/example.gif)
